@@ -8,6 +8,8 @@
 - 📢 I’m currently open to hire.
 - ⚡ Fun fact: I like gaming.
 
+## Checkout my portfolio, it's really cool like an old Windows O.S. <a href='https://ouvina-fernando.vercel.app/' target="_blank">Click here</a>
+
 ### 📌 You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-fernando07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando07/)](https://www.linkedin.com/in/fernando07)
 [![Gmail Badge](https://img.shields.io/badge/-contactfernando07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactfernando07@gmail.com)](mailto:contactfernando07@gmail.com)
