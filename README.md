@@ -1,3 +1,5 @@
+<base target="_blank">
+
 ## Yo!✌️
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Fernando+Ouviña;Web+Developer)](https://git.io/typing-svg)
 
@@ -8,7 +10,7 @@
 - 📢 I’m currently open to hire.
 - ⚡ Fun fact: I like gaming.
 
-## Checkout my portfolio, it's really cool like an old Windows O.S. <a href='https://ouvina-fernando.vercel.app/' target="_blank">Click here</a>
+## Checkout my portfolio, it's really cool like an old Windows O.S. ![Click here](https://ouvina-fernando.vercel.app/)
 
 ### 📌 You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-fernando07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando07/)](https://www.linkedin.com/in/fernando07)
