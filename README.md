@@ -1,5 +1,3 @@
-<base target="_blank">
-
 ## Yo!✌️
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Fernando+Ouviña;Web+Developer)](https://git.io/typing-svg)
 
@@ -7,10 +5,9 @@
 - 📌 I’m currently working on ![Ishinoguro - Landing Page](https://github.com/FerOuvina/Ishinoguro-Landing-Page) a commissioned work to a small digital artist.
 - 🌱 I’m currently learning more about web development with React and Next.js and a bit of Java whenever I find some time.
 - 👯 I’m looking to collaborate on projects related to web dev. or maybe some minecraft modding... 😅
+- 💻 Checkout my portfolio, it's really cool like an old Windows O.S. ![Portfolio](https://ouvina-fernando.vercel.app/)
 - 📢 I’m currently open to hire.
 - ⚡ Fun fact: I like gaming.
-
-## Checkout my portfolio, it's really cool like an old Windows O.S. ![Click here](https://ouvina-fernando.vercel.app/)
 
 ### 📌 You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-fernando07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando07/)](https://www.linkedin.com/in/fernando07)
