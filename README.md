@@ -31,6 +31,3 @@
 ![Java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=white)
-
-### 📊 Now look at this awesome graph:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FerOuvina&theme=radical)](https://git.io/streak-stats)
