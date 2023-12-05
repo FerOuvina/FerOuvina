@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on projects related to web dev. or maybe some minecraft modding... 😅
 - 💻 Checkout my portfolio, it's really cool like an old Windows O.S. ![Portfolio](https://ouvina-fernando.vercel.app/)
 - 📢 I’m currently open to hire.
-- ⚡ Fun fact: I like gaming.
 
 ### 📌 You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-fernando07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando07/)](https://www.linkedin.com/in/fernando07)
