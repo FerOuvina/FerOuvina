@@ -4,8 +4,8 @@
 
 - 📌 I’m currently working on ![Ishinoguro - Landing Page](https://github.com/FerOuvina/Ishinoguro-Landing-Page) a commissioned work to a small digital artist.
 - 🌱 I’m currently learning more about web development with React and Next.js and a bit of Java whenever I find some time.
-- 👯 I’m looking to collaborate on projects related to web dev. or maybe some minecraft modding... 😅
-- 💻 Checkout my portfolio, it's really cool like an old Windows O.S. ![Portfolio](https://ouvina-fernando.vercel.app/)
+- 👯 I’m looking to collaborate on projects related to front end, and maybe some back end.
+- 💻 Checkout my portfolio, it's really cool like an old Windows O.S. ![Click Me!](https://ouvina-fernando.vercel.app/)
 - 📢 I’m currently open to hire.
 
 ### 📌 You can find me on:
