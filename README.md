@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Fernando+Ouviña;Web+Developer)](https://git.io/typing-svg)
 
 
-- 📌 I’m currently working on ![Grand Fantasia Origins](https://github.com/FerOuvina/Grand-Fantasia-Origins-Landing-Page) as a freelance front end web developer and database manager.
+- 📌 I’m currently working on ![Grand Fantasia Awakening](https://gfawakening.online) as a front end web developer and database manager.
 - 🌱 I’m currently learning more about web development with React and Next.js and a bit of Java whenever I find some time.
 - 👯 I’m looking to collaborate on projects related to front end, and maybe some back end.
 - 💻 Checkout my portfolio, it's really cool like an old Windows O.S. <a href="https://ouvina-fernando.vercel.app/" target="_blank">Click Me!</a>
